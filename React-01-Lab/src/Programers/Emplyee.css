@@ -1,0 +1,21 @@
+
+.par{
+    background-color: purple;
+    color: #fff;
+  }
+.gry{
+    background-color:rgb(214, 215, 215);
+}
+
+.company{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 100px;
+  font-size: 30px;
+}
+
+.services{
+  font-size: 30px;
+}
